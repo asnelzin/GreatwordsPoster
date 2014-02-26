@@ -1,0 +1,6 @@
+import twitter
+
+secret_keys = twitter.Keys('oauth_consumer_key',
+                           'oauth_consumer_secret',
+                           'oauth_token',
+                           'oauth_token_secret')
